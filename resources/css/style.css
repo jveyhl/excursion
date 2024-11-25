@@ -11,4 +11,35 @@ h1 {
     color: aqua;
     text-decoration: underline;
     text-align: center;
+    font-size: 13px;
+}
+
+#video-container {
+    text-align: center;
+}
+
+video {
+    margin-top: 1rem;
+    width: 300px;
+    height: auto;
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+}
+
+#camp {
+    width: 500px;
+    height: auto;
+}
+
+#phone-icon {
+    margin-top: 1rem;
+    width: 50px;
+    height: auto;
 }
