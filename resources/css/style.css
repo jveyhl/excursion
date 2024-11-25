@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#anchor-container {
+    color: aqua;
+    text-decoration: underline;
+    text-align: center;
+}
